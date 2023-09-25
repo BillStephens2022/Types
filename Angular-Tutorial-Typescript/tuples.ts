@@ -16,3 +16,4 @@ const pepsiTuple: [string, boolean, number] = ['brown', true, 40];
 type Drink = [string, boolean, number];  // creates a new type alias called "Drink"
 const spriteTuple: Drink = ['clear', true, 50];
 const tea: Drink = ['brown', false, 0];
+
